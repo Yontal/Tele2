@@ -1,0 +1,3 @@
+const MAIN_SCREEN = 'MAIN_SCREEN';
+
+export {MAIN_SCREEN};
